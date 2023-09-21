@@ -155,19 +155,6 @@ function Undoline8(){
    let b=document.querySelector(".x")
    b.style.textDecoration="none";
 }
-/*
-let c=document.querySelectorAll(".SlisT");
-console.log(c);
-c.forEach(myFunction)
-function myFunction(item, index) {
-   item.addEventListener("mouseover",backg);
-}
-   function backg(){
-   item.style.backgroundColor="#e0dcdc"
-}
-c.forEach(addEventListener("mouseleave",function backu(){
-   c.style.backgroundColor="#f7fafa"
-}));*/
 function backg(){
    let c=document.querySelector(".SlisT")
    c.style.backgroundColor="#e0dcdc"
